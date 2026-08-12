@@ -174,7 +174,7 @@ Características Principales para el Dueño del restaurante:
 
 |<img src="./images/foto-virgi.jpg" width="120">|
 |:-:|
-| **Virginia Danitz**|/
+| **Virginia Danitz**|
 | <a href="www.linkedin.com/in/virginia-danitz-1343a2249/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 | <a href="https://github.com/VirgiD"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> |
 <br>
