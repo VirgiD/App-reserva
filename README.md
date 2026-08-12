@@ -172,7 +172,7 @@ Características Principales para el Dueño del restaurante:
 
 #### 👉🏻 Testers 👨🏻‍💻
 
-| <img src="https://media.licdn.com/dms/image/D4D03AQGlOH3tDd20Zg/profile-displayphoto-shrink_400_400/0/1679316358970?e=1724889600&v=beta&t=pUeplZXLfubUBtJSMVu1Q7_OrSOXXjOtlTrPlEyzpgU" width=100>|
+| https://media.licdn.com/dms/image/v2/D4D03AQH5c3gy2twQkw/profile-displayphoto-crop_800_800/B4DZ_oilngIcAI-/0/1786312811097?e=1788393600&v=beta&t=THd0K2WvkyKd1yzdFO0HBJE9CFABrLE3zaiXYRbO7vc>|
 |:-:|
 | **Virginia Danitz**|/
 | <a href="www.linkedin.com/in/virginia-danitz-1343a2249/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
